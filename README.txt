@@ -1,12 +1,15 @@
-NEWA MELA WEBSITE V4 — ADVANCED LIGHT EDITION
+NEWA MELA Website V5 — light premium design and market-informed indicative prices.
 
-Files: index.html, styles.css, script.js, assets/favicon.svg
-Preview: open index.html in your browser. Upload this extracted folder to Netlify Drop.
+GitHub Pages: create PUBLIC repository newa-mela; upload CONTENTS of this folder (index.html at repository root), then Settings > Pages > Deploy from branch > main > /(root).
 
-NEW: Food menu with sample individual dish prices, three set menus, decoration/DJ/lighting/venue/furniture/coordination price options, interactive estimate calculator, quote form with pre-filled breakdown, responsive light design.
+All prices are indicative AUD budget estimates. Catering tiers are proposed launch prices, not verified supplier offers. Event venue/DJ/decor packages are planning allowances, not confirmed bookings. Confirm pricing, GST status, insurance, council food approvals, menu, guest minimums and suppliers before publishing as firm offers.
 
-CUSTOMISE PRICES: Edit the prices and option values in index.html. Ensure numeric option values match displayed labels. Set-menu prices are in the packages section and builderMenu options. All amounts are illustrative AUD estimates, NOT verified Perth supplier quotes or guaranteed offers.
+Quote form opens visitor's email client addressed to godcretus@gmail.com; it does not send from a backend.
 
-EMAIL: godcretus@gmail.com (temporary). The form uses mailto and requires the visitor to send from their email app. No direct server submission, payment, live availability or confirmed booking occurs.
+Uses Unsplash remote photography for inspiration, not an actual portfolio. Replace with licensed real event photography when available.
 
-BEFORE LAUNCH: Verify approvals, pricing, GST treatment, business/trademark/domain, supplier quotes and availability, insurance, food safety, dietary requirements, photo licensing and privacy arrangements. Replace sample Unsplash photos with actual business photos. A venue hire option is a planning allowance only; NEWA MELA does not claim to own a venue.
+Market reference links in pricing-sources.html.
+
+V6: Broader multicultural positioning, six food categories, cuisine selection in quote form, cultural/dietary preferences guidance. Prices remain proposed, not verified supplier quotes.
+
+V7 adds six multicultural sample set menus and an interactive mix-and-match menu builder. All prices are estimates requiring final business costing and supplier confirmation.
